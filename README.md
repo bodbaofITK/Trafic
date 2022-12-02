@@ -1,5 +1,5 @@
 # Trafic
-Create an intersection simulator application!
+Create an intersection simulator application! 
 Create multiple Car threads, each with a random ID (random integer), that wants to cross the intersection
 o Crossing the intersection works as follows:
   o The car drives up to the intersection, which takes 3 seconds (Thread.sleep())
